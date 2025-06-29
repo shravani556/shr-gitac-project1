@@ -9,7 +9,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: /vm1
+        working-directory: vm1
 
     steps:
       - name: Checkout Code
